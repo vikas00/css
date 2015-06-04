@@ -15,8 +15,9 @@
     height:1px;
 }
 
-#extremefoot{
+#extremefoot{color:red;
              background:black;
              float:left;
              width:100%;
+	
 }
