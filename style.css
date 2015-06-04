@@ -14,3 +14,21 @@
     width: 90%;
     height:1px;
 }
+#head{
+	float: left;
+	background: white;
+
+}
+#head a:link{
+	color: #252420;
+	text-decoration: none;
+	
+ }
+ #headph{
+ 	width: 1009px;
+    height: 384px;
+ 	background-image: url("headr.jpg");
+ 	background-size: fit;
+ 	background-repeat: no-repeat;
+ 	float :left;
+ }
