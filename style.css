@@ -1,0 +1,16 @@
+#background{
+	background: #5E6F76;
+	height: 300px; 
+	padding-left: 100px; 
+	padding-right: 100px; 
+	border-top-width: 0px; 
+	padding-top: 100px;
+}
+#top{
+	background: #DCE0E1;
+	float: left;
+	border-radius: 25px 25px 0px 0px;
+    padding: 20px; 
+    width: 90%;
+    height:1px;
+}
