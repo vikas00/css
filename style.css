@@ -1,35 +1,140 @@
+body{
+	font-family:sans-serif;
+    letter-spacing: normal;
+    word-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    font-variant: normal;
+    text-indent: 0px;
+}
+button{
+	border-width: 0px;
+}
 #background{
 	background: #5E6F76;
-	height: 300px; 
-	padding-left: 100px; 
-	padding-right: 100px; 
-	border-top-width: 0px; 
+	padding-left: 50px; 
+	padding-right: 50px; 
+	height: 4320px;
 	padding-top: 100px;
+	width: 1222px;
 }
 #top{
 	background: #DCE0E1;
 	float: left;
-	border-radius: 25px 25px 0px 0px;
+    border-radius: 15px 15px 0px 0px;
     padding: 20px; 
-    width: 90%;
+    width:1186px;
     height:1px;
 }
-#head{
+#headl{
 	float: left;
 	background: white;
 
 }
+#head{
+	background: white;
+	padding-top: 30px; 
+	padding-left: 36px; 
+	height: 40px; 
+	border-top-width: 0px; 
+	width: 1072px;
+	margin-top: 41px; 
+	margin-left: 118px;
+
+}
+
+
 #head a:link{
-	color: #252420;
+	color: #575757;
 	text-decoration: none;
-	
+	padding-right: 40px;
  }
  #headph{
- 	width: 1009px;
+ 	width: 1226px;
     height: 384px;
-
+    color: white;
  	background-image: url("headr.jpg");
- 	background-size: fit;
+ 	background-size:1226px 384px;
  	background-repeat: no-repeat;
  	float :left;
  }
+ #lowerh a:link{
+	color: #252420;
+	text-decoration: none;
+	font-size: 25px;
+	
+ }
+
+#lowerh{
+  	float: left;
+  	background: #FCFCFC;
+  	width: 1106px;
+  	height: 69px; 
+  	padding-top: 50px; 
+  	padding-left: 120px;
+}
+#lowerh2{
+  	float: left;
+  	padding-right: 130px;
+  	background: #FFFFFF;
+  	width: 966px; 
+  	padding-top: 50px; 
+  	padding-bottom: 50px; 
+  	padding-left: 130px;
+
+}
+#leftb{
+	float: left;
+	width: 762px;padding-top: 60px;
+	background: #FAFAFA;
+
+}
+#leftb a:link{
+    color:#12AEDF;
+	text-decoration: none;
+	
+
+}
+#rightb{
+	float: right;
+	background: #FAFAFA;padding-top: 60px;
+
+	width: 370px; padding-left: 90px;
+
+}
+#news{
+	 height: 169px; width: 762px;margin-top: 40px;
+	 background: #FAFAFA;
+}
+
+#bigfont{
+	font-family:"montserratbold",sans-serif;
+	font-size: 18px;
+	color: 4C4C4C;
+	font-weight: bold;
+	text-decoration: none;
+
+}
+#bigfontb{
+	font-family:"montserratbold",sans-serif;
+	font-size: 18px;
+	color:#12AEDF;
+	font-weight: bold;
+	text-decoration: none;
+
+}
+#lbodyr{
+	float: right;
+	background: #FAFAFA;
+	width: 611px; padding-top: 150px;
+	padding-bottom: 45px;
+
+
+}
+#lbodyl{
+	float: left;
+	background: #FAFAFA;
+	width: 611px; padding-top: 150px;padding-bottom: 50px;
+	height: 969px;
+
+}
