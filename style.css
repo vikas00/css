@@ -14,7 +14,7 @@ button{
 	background: #5E6F76;
 	padding-left: 50px; 
 	padding-right: 50px; 
-	height: 4320px;
+	height: 2863px;
 	padding-top: 100px;
 	width: 1222px;
 }
@@ -138,3 +138,21 @@ button{
 	height: 969px;
 
 }
+#footdiv{
+           float:left;
+           background:#525354;
+
+         }
+#back{
+      background:#525354;
+      color:white;
+      }
+
+#c{
+    color:#999999;
+   }
+
+#d {
+     background:#F4F4F4;
+
+ }
